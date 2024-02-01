@@ -7,3 +7,6 @@
 ``` Javascript
 var name = "Skidohbah";
 ```
+- [x] introduction to github
+- [x] learning mark down
+- [ ] going to the next stage  
